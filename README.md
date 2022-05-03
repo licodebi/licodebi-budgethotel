@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # budgethotel-user
 
 > A Vue.js project
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# licodebi-budgethotel
+基于SpringBoot的酒店预订管理系统
+>>>>>>> da174a56fa5bdc4f16c086c65438e3680f9026f6
